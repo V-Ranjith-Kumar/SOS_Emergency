@@ -223,7 +223,7 @@ build/app/outputs/flutter-apk/app-release.apk
 
 Developed by:
 
-Ranjith Kumar
+Ranjith Kumar V
 
 Flutter Developer
 
